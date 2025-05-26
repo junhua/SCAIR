@@ -1,0 +1,14 @@
+poiID,poiName,capacity,lat,long,duration,rating,n_reviews
+1,Rock 'n' Roller Coaster,1800,28.357837,-81.560349,1.5,4.7,1352
+2,Toy Story Midway Mania!,64,28.356163,-81.561315,6.5,4.7,1527
+3,Star Tours: The Adventures Continue,40,28.355298,-81.558642,7,4.7,615
+4,Jedi Training: Trials of the Temple,16,28.355645,-81.558711,15,4.6,247
+5,The Twilight Zone Tower of Terror,21,28.360014,-81.559949,15,4.8,1462
+6,Muppet*Vision 3D,564,28.354907,-81.559527,17,4,171
+7,Voyage of The Little Mermaid,500,28.357488,-81.560997,17,4.4,567
+8,The Great Movie Ride,70,28.356736,-81.560611,19,4.4,265
+9,Fantasmic,9900,28.361238,-81.558197,25,4.5,1715
+10,Beauty and the Beast - Live on Stage,1500,28.359296,-81.559016,25,4.6,331
+11,Walt Disney: One Man's Dream,100,28.356949,-81.561011,25,4.8,78
+12,Disney Junior - Live on Stage!,100,28.357814,-81.560655,25,4.3,136
+13,Indiana Jones Epic Stunt Spectacular!,2150,28.356606,-81.558322,30,4.6,392

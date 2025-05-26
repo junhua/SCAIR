@@ -1,0 +1,18 @@
+poiID,poiName,lat,long,duration,capacity,rating,n_reviews
+1,Test Track,28.373215,-81.547502,4,4,4.6,3033
+2,The Seas with Nemo & Friends,28.37498,-81.550743,4,10,4.5,879
+3,Soarin',28.373551,-81.55219,5.5,80,4.8,4299
+4,Journey Into Imagination With Figment,28.372619,-81.551674,6,15,3.9,580
+5,Gran Fiesta Tour Starring The Three Caballeros,28.371826,-81.547279,7,20,4.4,2194
+6,IllumiNations: Reflections of Earth,28.369065,-81.549399,12,50,4.5,4687
+7,Living with the Land,28.374317,-81.552158,14,20,4.6,173
+8,Reflections of China,28.369962,-81.545974,14,30,4.4,353
+9,Mission: SPACE,28.37399,-81.546841,15,20,4.4,1146
+10,O Canada!,28.371887,-81.551726,15,30,4.3,499
+11,Spaceship Earth,28.375304,-81.54942,16,30,4.6,1339
+12,Turtle Talk with Crush,28.375429,-81.551228,17,25,4.5,117
+13,Impressions de France,28.36878,-81.553001,18,428,4,59
+14,The Circle of Life,28.374307,-81.552301,20,428,2.5,24
+15,British Revolution,28.370507,-81.55246,20,100,4,1
+16,Ellen's Energy Adventure,28.374813,-81.547876,35,428,3.9,27
+17,Rose & Crown Pub Musician,28.370471,-81.551558,45,40,4.7,54

@@ -1,0 +1,26 @@
+poiID,poiName,lat,long,duration,capacity,rating,n_reviews
+1,Jumpin' Jellyfish,33.805968,-117.922717,1,12,4.1,55
+2,Francis' Ladybug Boogie,33.80661,-117.917583,1,15,4.6,38
+3,Goofy's Sky School,33.80631,-117.923036,1.5,4,4.4,207
+4,Flik's Flyers,33.806812,-117.917778,1.5,32,4,7
+5,Silly Symphony Swings,33.805556,-117.922848,2,48,4.4,78
+6,Mater's Junkyard Jamboree,33.806487,-117.919092,2,12,4.8,5046
+7,King Triton's Carousel,33.80454,-117.921177,2,56,4.3,9
+8,Heimlich's Chew Chew Train,33.806384,-117.918084,2,20,3.7,39
+9,Tuck and Roll's Drive 'Em Buggies,33.806373,-117.917517,2,34,3.9,92
+10,Golden Zephyr,33.80596,-117.922265,2.5,32,4.3,116
+11,California Screamin',33.804481,-117.920886,4,24,5,88
+12,Soarin' Around the World,33.808353,-117.920017,4.5,87,4.8,4299
+13,"Monsters, Inc. Mike & Sulley to the Rescue!",33.808324,-117.917278,5,6,4.5,862
+14,Radiator Springs Racers,33.804962,-117.918218,6,6,4.6,537
+15,The Twilight Zone Tower of Terror,33.806607,-117.916916,6,21,4.8,4162
+16,The Little Mermaid ~ Ariel's Undersea Adventure,33.806285,-117.92151,7,10,4.4,334
+17,Grizzly River Run,33.807572,-117.920859,7,8,4.8,668
+18,Mickey's Fun Wheel,33.805046,-117.922333,9,30,4.5,306
+19,"The Bakery Tour, hosted by Boudin Bakery",33.806032,-117.919717,9,10,4,52
+20,It's Tough to Be a Bug!,33.80697,-117.918662,10,30,4.5,282
+21,Red Car Trolley & News Boys,33.807062,-117.917905,15,35,4,1
+22,Turtle Talk with Crush,33.807414,-117.917724,17,30,4.5,117
+23,Redwood Creek Challenge Trail,33.806958,-117.921459,20,10,4.7,77
+24,Disney Junior - Live on Stage!,33.807419,-117.918332,25,40,4.3,136
+25,Animation Academy,33.807424,-117.917375,35,30,4.7,18
